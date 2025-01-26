@@ -57,8 +57,9 @@ div {
     margin-bottom: -50px;
     background-color: hsl(150, 100%, 66%);
     padding: 10px;
-
-    border-radius: 20%;
+    border-radius: 30%;
+    width: 20px;
+    height: 20px;
 }
 
 .dice:hover {
